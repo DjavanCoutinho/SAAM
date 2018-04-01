@@ -24,13 +24,17 @@
         <activity
             android:name=".LoginActivity"
             android:label="@string/title_activity_login" />
-        <activity android:name=".PerfilActivity" />
         <activity android:name=".CadastroActivity" />
         <activity android:name=".AlterarSenhaActivity" />
         <activity android:name=".CadastroDadosPessoaisActivity" />
-        <activity android:name=".CadastroEnderecoActivity" />
         <activity android:name=".InicioActivity" />
-        <activity android:name=".MeusExamesActivity"></activity>
+        <activity android:name=".MeusExamesActivity" />
+        <activity android:name=".MinhasConsultasActivity" />
+        <activity android:name=".InfoComplementaresActivity" />
+        <activity android:name=".ConsultaPacienteDadosActivity" />
+        <activity android:name=".ConsultaPacienteProntuarioActivity" />
+        <activity android:name=".ConsultaPacientoFotoExamesActivity" />
+        <activity android:name=".ConsultaPacienteRelatorioActivity"></activity>
     </application>
 
 </manifest>
