@@ -6,5 +6,29 @@
     android:layout_height="match_parent"
     tools:context="co.fortes.saam.PerfilActivity">
 
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="134dp"
+        android:layout_height="42dp"
+        android:text="Médico"
+        tools:layout_editor_absoluteX="125dp"
+        tools:layout_editor_absoluteY="195dp" />
+
+    <Button
+        android:id="@+id/button5"
+        android:layout_width="136dp"
+        android:layout_height="44dp"
+        android:text="Paciente"
+        tools:layout_editor_absoluteX="124dp"
+        tools:layout_editor_absoluteY="248dp" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Selecione o perfil desejado:"
+        tools:layout_editor_absoluteX="106dp"
+        tools:layout_editor_absoluteY="116dp" />
+
 </android.support.constraint.ConstraintLayout>
 
