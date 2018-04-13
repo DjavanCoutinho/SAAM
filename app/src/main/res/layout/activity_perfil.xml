@@ -12,7 +12,7 @@
         android:layout_height="42dp"
         android:text="Médico"
         tools:layout_editor_absoluteX="125dp"
-        tools:layout_editor_absoluteY="195dp" />
+        tools:layout_editor_absoluteY="191dp" />
 
     <Button
         android:id="@+id/button5"
