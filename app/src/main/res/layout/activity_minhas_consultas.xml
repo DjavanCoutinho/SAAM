@@ -12,7 +12,7 @@
         android:layout_height="wrap_content"
         android:text="FILTRAR"
         tools:layout_editor_absoluteX="50dp"
-        tools:layout_editor_absoluteY="43dp" />
+        tools:layout_editor_absoluteY="29dp" />
 
     <TextView
         android:id="@+id/textView3"
