@@ -20,7 +20,7 @@
         android:layout_height="wrap_content"
         android:text="Selecione a data:"
         tools:layout_editor_absoluteX="50dp"
-        tools:layout_editor_absoluteY="87dp" />
+        tools:layout_editor_absoluteY="89dp" />
 
     <EditText
         android:id="@+id/editText2"
@@ -46,13 +46,13 @@
         android:layout_height="wrap_content"
         android:text="Selecione a Hora:"
         tools:layout_editor_absoluteX="50dp"
-        tools:layout_editor_absoluteY="200dp" />
+        tools:layout_editor_absoluteY="190dp" />
 
     <MultiAutoCompleteTextView
         android:id="@+id/multiAutoCompleteTextView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="MultiAutoCompleteTextView"
+        android:text="Selecione a especialidade"
         tools:layout_editor_absoluteX="50dp"
         tools:layout_editor_absoluteY="306dp" />
 
@@ -60,7 +60,7 @@
         android:id="@+id/multiAutoCompleteTextView2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="MultiAutoCompleteTextView"
+        android:text="Selecione o Hospital"
         tools:layout_editor_absoluteX="50dp"
         tools:layout_editor_absoluteY="376dp" />
 
